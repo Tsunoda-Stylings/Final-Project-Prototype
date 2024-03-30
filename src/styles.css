@@ -125,10 +125,28 @@ h5 {
   background-repeat: no-repeat;
   padding: 250px 20px 200px 10px;
 }
+.hero-blog-workshop {
+  background-image: url(/images/2024/workshop.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 250px 20px 200px 10px;
+}
+.hero-blog-team {
+  background-image: url(/images/2024/team.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 250px 20px 200px 10px;
+}
+.hero-blog-careers {
+  background-image: url(/images/2024/careers.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 250px 20px 200px 10px;
+}
 .hero {
   background: #dbd5d5;
   text-align: center;
-  padding: 130px 20px;
+  padding: 50px 20px;
 }
 
 .dark .hero{
